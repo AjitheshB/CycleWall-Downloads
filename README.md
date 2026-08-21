@@ -2,7 +2,7 @@
 
 To download, click CycleWall v1.0.2 in Releases towards your left
 
-<img width="1055" height="644" alt="image" src="https://github.com/user-attachments/assets/961f702f-306d-41b2-b04a-5f8fdaa996c2" />
+<img width="1331" height="694" alt="image" src="https://github.com/user-attachments/assets/63d42a1a-b216-49a7-a76d-edea42bd6c6b" />  
   
 <img width="1273" height="546" alt="image" src="https://github.com/user-attachments/assets/3ac26379-7f64-4e57-be1e-3a682874475b" />
   
@@ -17,7 +17,10 @@ To download, click CycleWall v1.0.2 in Releases towards your left
 <img width="1000" height="402" alt="image" src="https://github.com/user-attachments/assets/feae343d-86b3-4ebb-90ac-f61e91c967ca" />
   
 <img width="999" height="535" alt="image" src="https://github.com/user-attachments/assets/757f7db3-5042-43ef-8a52-31d4b97dc80c" />
-  
+
+# Some Wallpaper Examples
+
+You can view the full catalogue in [https://github.com/dharmx/walls](url)
 <img width="1045" height="644" alt="image" src="https://github.com/user-attachments/assets/8490a6bb-0518-4b6c-a43e-133619e9990c" />
   
 <img width="1055" height="644" alt="image" src="https://github.com/user-attachments/assets/c1dc199d-0ae6-49ec-a937-8c0913d7842e" />
