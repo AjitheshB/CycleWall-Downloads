@@ -14,7 +14,7 @@ To download, click CycleWall v1.0.2 in Releases towards your left
   
 <img width="938" height="527" alt="image" src="https://github.com/user-attachments/assets/fe202c04-e3de-482a-9444-b0b36cdc0a4d" />          
   
-<img width="1000" height="402" alt="image" src="https://github.com/user-attachments/assets/feae343d-86b3-4ebb-90ac-f61e91c967ca" />          
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/feae343d-86b3-4ebb-90ac-f61e91c967ca" />          
   
 <img width="999" height="535" alt="image" src="https://github.com/user-attachments/assets/757f7db3-5042-43ef-8a52-31d4b97dc80c" />          
 
