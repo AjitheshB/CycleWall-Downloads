@@ -12,10 +12,10 @@ To download, click CycleWall v1.0.2 in Releases towards your left
   
 <img width="1114" height="560" alt="image" src="https://github.com/user-attachments/assets/57bf71b0-2f58-4842-a2db-219f877cc07f" />          
   
-<img width="938" height="527" alt="image" src="https://github.com/user-attachments/assets/fe202c04-e3de-482a-9444-b0b36cdc0a4d" />          
-  
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/feae343d-86b3-4ebb-90ac-f61e91c967ca" />          
-  
+<img width="938" height="527" alt="image" src="https://github.com/user-attachments/assets/fe202c04-e3de-482a-9444-b0b36cdc0a4d" />
+
+<img width="649" height="376" align="center" alt="image" src="https://github.com/user-attachments/assets/408aa497-e3e0-4e62-90d8-7b058ef735c9" />
+     
 <img width="999" height="535" alt="image" src="https://github.com/user-attachments/assets/757f7db3-5042-43ef-8a52-31d4b97dc80c" />          
 
 # Some Wallpaper Examples
