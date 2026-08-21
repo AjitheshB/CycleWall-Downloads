@@ -2,7 +2,7 @@
 
 To download, click CycleWall v1.0.2 in Releases towards your left
 
-Something not working or want to provide advice/partner? Reach out to support.cyclewall@gmail.com
+Something not working or want to provide advice? Reach out to support.cyclewall@gmail.com [Open to partnerships as well :)]
 
 <img width="1331" height="694" alt="image" src="https://github.com/user-attachments/assets/63d42a1a-b216-49a7-a76d-edea42bd6c6b" />          
   
